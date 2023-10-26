@@ -16,4 +16,3 @@ for i in range(len(viable_flips)):
     print(f"#{len(viable_flips) - i} {viable_flips[i]}")
 
 print(f"Last updated: {BAZAAR_LAST_UPDATED}")
-
